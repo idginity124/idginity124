@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="anime_banner.gif" width="100%" style="border-radius: 10px;">
+  <br>
+</div>
+
 ### Merhaba, ben Ekrem! 👋
 
 🎓 **Adli Bilişim Mühendisliği** öğrencisiyim. Kariyerime **Yapay Zeka Mühendisi** olarak devam etmeyi hedefliyorum.
