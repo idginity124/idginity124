@@ -7,12 +7,15 @@
 
   <a href="https://idginity124.github.io/"><img src="https://img.shields.io/badge/Portfolyo_Sitem-060611?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://linkedin.com/in/ekrembulgan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <br>
   <a href="https://www.upwork.com/freelancers/~01ada95984844a48c9"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="https://www.fiverr.com/s/zWEbKZb"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
+  <a href="https://bionluk.com/ekrembulgan"><img src="https://img.shields.io/badge/Bionluk-FF5A5F?style=for-the-badge"></a>
 </div>
 
 <br>
 
-🎓 **Adli Bilişim Mühendisliği** öğrencisiyim.  
+🎓 **Adli Bilişim Mühendisliği** mezunuyum.  
 Kariyerime **Yapay Zeka & Görüntü İşleme (CV)** alanında devam etmeyi hedefliyorum.  
 Teorik bilgilerimi; otonom sistemler, bilgisayarlı görü ve masaüstü otomasyon projeleriyle gerçek ürünlere dönüştürüyorum.
 
@@ -64,8 +67,8 @@ Teorik bilgilerimi; otonom sistemler, bilgisayarlı görü ve masaüstü otomasy
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idginity124&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idginity124&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=idginity124&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idginity124&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150" alt="En Çok Kullanılan Diller" />
 </div>
 
 ---
