@@ -2,7 +2,7 @@
   <img src="anime_banner.gif" width="100%" style="border-radius: 10px;">
   
   <h1>Ekrem Bulgan</h1>
-  <h3>AI Engineer & Software Developer</h3>
+  <h3>Mobile App & AI Developer</h3>
   <p><i>Building things. One training arc at a time.</i> 🚀</p>
 
   <a href="https://idginity124.github.io/"><img src="https://img.shields.io/badge/Portfolyo_Sitem-060611?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
@@ -16,23 +16,28 @@
 <br>
 
 🎓 **Adli Bilişim Mühendisliği** mezunuyum.  
-Kariyerime **Yapay Zeka & Görüntü İşleme (CV)** alanında devam etmeyi hedefliyorum.  
-Teorik bilgilerimi; otonom sistemler, bilgisayarlı görü ve masaüstü otomasyon projeleriyle gerçek ürünlere dönüştürüyorum.
+Kariyerime **Mobil Uygulama Geliştirme (Flutter)** ve **Yapay Zeka** odaklı devam ediyorum.  
+Fikirleri; cross-platform mobil uygulamalar, bilgisayarlı görü sistemleri ve otonom araçlarla gerçek ürünlere dönüştürüyorum.
 
 ---
 
-### 🛠️ Öne Çıkan Ürünler & Masaüstü Araçlar
-*Kullanıcı odaklı, hata yönetimi güçlü ve paketlenmiş araçlar:*
+### 📱 Öne Çıkan Mobil Uygulamalar (Flutter)
+*Kullanıcı odaklı, modern arayüzlü ve performansı yüksek mobil projeler:*
+
+- 🦁 **[LingoPark](https://github.com/idginity124/LingoPark)** — Çevrimdışı çalışan, oyunlaştırma tabanlı İngilizce kelime öğrenme mobil uygulaması. Temiz kullanıcı akışları ve interaktif alıştırmalar içerir.
+- 🔐 **[CipherVault](https://github.com/idginity124/CipherVault)** — Android (+ Windows) için yerel şifreleme kullanan, bulut bağımsız *offline* parola kasası. Minimum saldırı yüzeyi prensibiyle tasarlandı.
+
+---
+
+### 🛠️ Masaüstü Araçlar & Otomasyon
+*İş akışlarını hızlandıran, hata yönetimi güçlü, paketlenmiş araçlar:*
 
 - 🎬 **[VidExtract](https://github.com/idginity124/VidExtract)** YouTube, Reddit, Instagram, TikTok vb. için masaüstü video/ses indirme aracı. Akıllı pano izleme ve otomatik FFmpeg kurulumu içerir *(Python, PySide6)*.
-
-- 🔐 **[CipherVault](https://github.com/idginity124/CipherVault)** Windows + Android için yerel şifreleme kullanan, bulut bağımsız *offline* parola kasası.
-
 - 📂 **[DeskMind AI](https://github.com/idginity124/DeskMindAI) & [MediaManagerPro](https://github.com/idginity124/MediaManagerPro)** Kullanıcı davranışlarından öğrenen masaüstü düzenleyici asistan ve büyük veri setleri için medya arşivi otomasyonları.
 
 ---
 
-### 🧠 Yapay Zeka & Görüntü İşleme Projelerim
+### 🧠 Yapay Zeka & Görüntü İşleme
 *Yapay zeka ve veri bilimi odaklı Ar-Ge çalışmalarım:*
 
 - 🦅 **Airplane & Bird Detection** — Görüntü işleme ile gerçek zamanlı nesne tespiti (Object Detection).
@@ -40,10 +45,9 @@ Teorik bilgilerimi; otonom sistemler, bilgisayarlı görü ve masaüstü otomasy
 
 ---
 
-### 📱 Mobil & Oyun Geliştirme (Game Dev)
-*Eğitim ve eğlence odaklı interaktif projeler:*
+### 🎮 Oyun Geliştirme (Game Dev)
+*Godot Engine ile geliştirdiğim interaktif prototipler:*
 
-- 🦁 **[LingoPark](https://github.com/idginity124/LingoPark)** — Flutter ile geliştirilmiş, çevrimdışı çalışan, oyunlaştırma tabanlı İngilizce kelime öğrenme uygulaması.
 - 🎲 **DiceTwo** — Şans ve strateji tabanlı oyun projesi.
 
 | **2D Platformer (Pixel Art)** | **3D Action Adventure** |
@@ -55,14 +59,9 @@ Teorik bilgilerimi; otonom sistemler, bilgisayarlı görü ve masaüstü otomasy
 
 ### 💻 Kullandığım Teknolojiler
 
-**Diller & Frameworkler:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+**Diller & Frameworkler:** ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
-**Motorlar, Kütüphaneler & Araçlar:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+**AI, Araçlar & Motorlar:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ---
 
