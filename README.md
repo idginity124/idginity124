@@ -12,80 +12,109 @@
 
 <br>
 
-🎓 **Adli Bilişim Mühendisliği** mezunuyum. Kariyerimi **yapay zekâ mühendisliği** yönünde geliştiriyor, **Flutter** ile mobil uygulamalar üretiyorum.
+<p align="center">
+🎓 <strong>Adli Bilişim Mühendisliği</strong> mezunuyum. Kariyerimi <strong>yapay zekâ mühendisliği</strong> yönünde geliştiriyor, <strong>Flutter</strong> ile mobil uygulamalar üretiyorum.
+</p>
 
+<p align="center">
 Bilgisayarlı görü ve doğal dil işleme üzerine çalışıyorum. Hedefim, geliştirdiğim modelleri insanların kullanabileceği mobil uygulamalarla buluşturmak.
+</p>
 
-### 🧠 Ana Hikâye: Yapay Zekâ Mühendisliği
+<h3 align="center">🧠 Ana Hikâye: Yapay Zekâ Mühendisliği</h3>
 
+<p align="center">
 Yapay zekâ yolculuğumda üzerinde çalıştığım projeler:
+</p>
 
-| Çalışma | Odak |
-|:---|:---|
-| **Airplane & Bird Detection** | Görüntü işleme ile gerçek zamanlı uçak ve kuş tespiti. |
-| **Varlık Çıkarma — NER** | Doğal dil işleme ile metinlerden adlandırılmış varlıkların çıkarılması. |
+<p align="center">
+<strong>Airplane &amp; Bird Detection</strong><br>
+Görüntü işleme ile gerçek zamanlı uçak ve kuş tespiti.
+</p>
 
-**Bir sonraki seviye:** Veri hazırlama, model eğitimi ve değerlendirme becerilerimi derinleştirmek; modelleri uygulamalara entegre etmek.
+<p align="center">
+<strong>Varlık Çıkarma — NER</strong><br>
+Doğal dil işleme ile metinlerden adlandırılmış varlıkların çıkarılması.
+</p>
 
----
+<p align="center">
+<strong>Bir sonraki seviye:</strong> Veri hazırlama, model eğitimi ve değerlendirme becerilerimi derinleştirmek; modelleri uygulamalara entegre etmek.
+</p>
 
-### 📱 Ürün Geliştirme: Mobil & Çoklu Platform
+<hr>
 
+<h3 align="center">📱 Ürün Geliştirme: Mobil &amp; Çoklu Platform</h3>
+
+<p align="center">
 Yapay zekâ odağımın yanında, fikirleri kullanılabilir uygulamalara dönüştürüyorum.
+</p>
 
-- 💬 **[Zleno](https://github.com/idginity124/Zleno)** — Sesli odalar, topluluklar ve özel mesajlaşmayı bir araya getiren iletişim uygulamam.
-- 🔐 **[CipherVault](https://github.com/idginity124/CipherVault)** — Android ve Windows için yerel şifreleme kullanan, çevrimdışı parola kasası.
-- 🦁 **LingoPark** — Flutter ile geliştirdiğim, çevrimdışı çalışan ve oyunlaştırmaya dayalı İngilizce kelime öğrenme uygulaması.
+<p align="center">💬 <strong><a href="https://github.com/idginity124/Zleno">Zleno</a></strong> — Sesli odalar, topluluklar ve özel mesajlaşmayı bir araya getiren iletişim uygulamam.</p>
 
----
+<p align="center">🔐 <strong><a href="https://github.com/idginity124/CipherVault">CipherVault</a></strong> — Android ve Windows için yerel şifreleme kullanan, çevrimdışı parola kasası.</p>
 
-### 🛠️ Yan Görevler: Python & Otomasyon
+<p align="center">🦁 <strong>LingoPark</strong> — Flutter ile geliştirdiğim, çevrimdışı çalışan ve oyunlaştırmaya dayalı İngilizce kelime öğrenme uygulaması.</p>
 
-- 📂 **[DeskMind AI](https://github.com/idginity124/DeskMindAI)** — Dosya sistemi olaylarını izleyen, kural tabanlı sınıflandırma ile dosyaları düzenleyen masaüstü otomasyon aracı.
-- 🎬 **[VidExtract](https://github.com/idginity124/VidExtract)** — Python ve PySide6 ile geliştirdiğim, video ve ses indirme iş akışlarını kolaylaştıran masaüstü aracı.
-- 🗂️ **[MediaManagerPro](https://github.com/idginity124/MediaManagerPro)** — Medya arşivlerini düzenlemeye yönelik otomasyon projesi.
+<hr>
 
----
+<h3 align="center">🛠️ Yan Görevler: Python &amp; Otomasyon</h3>
 
-### ⚙️ Teknoloji Envanteri
+<p align="center">📂 <strong><a href="https://github.com/idginity124/DeskMindAI">DeskMind AI</a></strong> — Dosya sistemi olaylarını izleyen, kural tabanlı sınıflandırma ile dosyaları düzenleyen masaüstü otomasyon aracı.</p>
 
-**Yapay zekâ & görüntü işleme**
+<p align="center">🎬 <strong><a href="https://github.com/idginity124/VidExtract">VidExtract</a></strong> — Python ve PySide6 ile geliştirdiğim, video ve ses indirme iş akışlarını kolaylaştıran masaüstü aracı.</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<p align="center">🗂️ <strong><a href="https://github.com/idginity124/MediaManagerPro">MediaManagerPro</a></strong> — Medya arşivlerini düzenlemeye yönelik otomasyon projesi.</p>
 
-**Mobil & uygulama geliştirme**
+<hr>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<h3 align="center">⚙️ Teknoloji Envanteri</h3>
 
----
+<p align="center">
+<strong>Yapay zekâ &amp; görüntü işleme</strong>
+</p>
 
-<details>
-<summary>🤝 Birlikte çalışalım</summary>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV">
+</p>
+
+<p align="center">
+<strong>Mobil &amp; uygulama geliştirme</strong>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="CSharp">
+</p>
+
+<hr>
+
+<h3 align="center">🤝 Birlikte çalışalım</h3>
 
 <br>
 
+<p align="center">
 Mobil uygulama ve Python otomasyonu projeleri için bana ulaşabilirsin.
+</p>
 
-- [LinkedIn](https://linkedin.com/in/ekrembulgan)
-- [Upwork](https://www.upwork.com/freelancers/~01ada95984844a48c9)
-- [Fiverr](https://www.fiverr.com/s/zWEbKZb)
-- [Bionluk](https://bionluk.com/ekrembulgan)
+<p align="center"><a href="https://linkedin.com/in/ekrembulgan">LinkedIn</a></p>
 
-</details>
+<p align="center"><a href="https://www.upwork.com/freelancers/~01ada95984844a48c9">Upwork</a></p>
+
+<p align="center"><a href="https://www.fiverr.com/s/zWEbKZb">Fiverr</a></p>
+
+<p align="center"><a href="https://bionluk.com/ekrembulgan">Bionluk</a></p>
 
 <br>
 
-<div align="center">
+<h3 align="center">⚡ The Training Arc</h3>
 
-### ⚡ The Training Arc
-
-Yapay zekâ mühendisliğine uzanan kendi hikâyemi yazıyorum.  
+<p align="center">
+Yapay zekâ mühendisliğine uzanan kendi hikâyemi yazıyorum.<br>
 Her proje bir seviye, her hata bir antrenman.
+</p>
 
+<p align="center">
 <i>Bir sonraki bölüm: Öğrenen modeller, yaşayan uygulamalar.</i>
-
-</div>
+</p>
