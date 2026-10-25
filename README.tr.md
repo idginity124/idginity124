@@ -29,46 +29,31 @@ Hedefim, modelleri insanların günlük yaşamında kullanabileceği uygulamalar
 
 <h2 align="center">Seçili projeler</h2>
 
-<p align="center"><a href="https://github.com/idginity124/VidExtract"><img src="assets/covers/vidextract.png" width="840" alt="VidExtract — projeyi incele"></a></p>
-<p align="center"><sub>AÇIK KAYNAK · MASAÜSTÜ · GPLv3</sub></p>
-<p align="center">
-Video indirme, cihazda konuşma tanıma ve zaman damgalı metin arama.<br>
-Çevrimiçi ve çevrimdışı çeviriyi tek bir çalışma alanında birleştirir.
-</p>
-<p align="center"><sub>Tauri · React · Rust · whisper.cpp · CTranslate2</sub></p>
+<p align="center"><a href="https://github.com/idginity124/VidExtract"><img src="assets/covers/vidextract-tr.png" width="840" alt="VidExtract — Video indir, konuşmayı cihazında metne dönüştür ve anı bul. Çevrimiçi / çevrimdışı çeviri, altyazı ve video klipleri. Tauri · React · Rust · whisper.cpp · CTranslate2"></a></p>
+
 <p align="center"><a href="https://github.com/idginity124/VidExtract/releases">İndir</a> &nbsp; / &nbsp; <a href="https://github.com/idginity124/VidExtract">Kaynak kod</a></p>
 
 <br>
 
-<p align="center"><a href="https://github.com/idginity124/Zleno"><img src="assets/covers/zleno.png" width="840" alt="Zleno — projeyi incele"></a></p>
-<p align="center"><sub>MOBİL VE MASAÜSTÜ · İLETİŞİM</sub></p>
-<p align="center">
-Sesli odalar, topluluklar ve özel mesajlaşma.<br>
-İnsanların aynı yerde buluşup iletişim kurabilmesi için geliştirdiğim uygulama.
-</p>
+<p align="center"><a href="https://github.com/idginity124/Zleno"><img src="assets/covers/zleno-tr.png" width="840" alt="Zleno — Sesli odalar, topluluklar ve özel mesajlaşma. Sohbetleri aynı yerde buluşturan iletişim uygulaması. "></a></p>
+
 <p align="center"><a href="https://apps.microsoft.com/detail/9NK6QQKSLSHD">Microsoft Store</a> &nbsp; / &nbsp; <a href="https://github.com/idginity124/Zleno">Projeyi incele</a></p>
 
 <br>
 
-<p align="center"><a href="https://github.com/idginity124/NowLearn-Akademi"><img src="assets/covers/nowlearn.png" width="840" alt="NowLearn Akademi — projeyi incele"></a></p>
-<p align="center"><sub>ŞİRKET İÇİN GELİŞTİRİLEN PROJE · EĞİTİM</sub></p>
-<p align="center">
-Bir şirket için Flutter ile geliştirdiğim İngilizce öğrenme uygulaması.<br>
-Kelime oyunları, dinleme ve okuma alıştırmalarıyla günlük pratiği oyunlaştırır.
-</p>
+<p align="center"><a href="https://github.com/idginity124/NowLearn-Akademi"><img src="assets/covers/nowlearn-tr.png" width="840" alt="NowLearn Akademi — Bir şirket için geliştirdiğim İngilizce öğrenme uygulaması. Kelime oyunları, dinleme ve okumayla günlük pratik. Flutter · Tanıtım deposu; kaynak kodu paylaşılmamaktadır"></a></p>
+
 <p align="center">
 <a href="https://apps.apple.com/tr/app/now-learn-akademi/id6803083436">App Store</a> &nbsp; / &nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.lingopark.app">Google Play</a> &nbsp; / &nbsp;
 <a href="https://nowlearnakademi.com/">Web sitesi</a> &nbsp; / &nbsp;
 <a href="https://github.com/idginity124/NowLearn-Akademi">Proje tanıtımı</a>
 </p>
-<p align="center"><sub>GitHub deposu tanıtım amaçlıdır; kaynak kodu paylaşılmamaktadır. Mağaza görselinde önceki Lingo Park adı yer almaktadır.</sub></p>
 
 <br>
 
-<p align="center"><a href="https://github.com/idginity124/CipherVault"><img src="assets/covers/ciphervault.png" width="840" alt="CipherVault — projeyi incele"></a></p>
-<p align="center"><sub>ANDROID VE WINDOWS · GÜVENLİK</sub></p>
-<p align="center">Yerel şifreleme kullanan, çevrimdışı parola kasası.</p>
+<p align="center"><a href="https://github.com/idginity124/CipherVault"><img src="assets/covers/ciphervault-tr.png" width="840" alt="CipherVault — Yerel şifreleme kullanan çevrimdışı parola kasası. Parolaların kendi cihazında kalsın. "></a></p>
+
 <p align="center"><a href="https://github.com/idginity124/CipherVault">Projeyi incele</a></p>
 
 <br>

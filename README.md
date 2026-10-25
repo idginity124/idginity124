@@ -28,46 +28,31 @@ I want to turn models into useful applications people can use every day.
 
 <h2 align="center">Selected projects</h2>
 
-<p align="center"><a href="https://github.com/idginity124/VidExtract"><img src="assets/covers/vidextract.png" width="840" alt="VidExtract — local speech recognition, transcript search and translation. Explore the project."></a></p>
-<p align="center"><sub>OPEN SOURCE · DESKTOP · GPLv3</sub></p>
-<p align="center">
-Download media, transcribe speech locally and find moments with timestamp search.<br>
-Online and offline translation, subtitle export and video clips in one workspace.
-</p>
-<p align="center"><sub>Tauri · React · Rust · whisper.cpp · CTranslate2</sub></p>
+<p align="center"><a href="https://github.com/idginity124/VidExtract"><img src="assets/covers/vidextract.png" width="840" alt="VidExtract — Download media, transcribe locally and search by timestamp. Online / offline translation, subtitles and video clips. Tauri · React · Rust · whisper.cpp · CTranslate2"></a></p>
+
 <p align="center"><a href="https://github.com/idginity124/VidExtract/releases">Download</a> &nbsp; / &nbsp; <a href="https://github.com/idginity124/VidExtract">Source code</a></p>
 
 <br>
 
-<p align="center"><a href="https://github.com/idginity124/Zleno"><img src="assets/covers/zleno.png" width="840" alt="Zleno — voice rooms, communities and messaging. Explore the project."></a></p>
-<p align="center"><sub>MOBILE &amp; DESKTOP · COMMUNICATION</sub></p>
-<p align="center">
-Voice rooms, communities and private messaging.<br>
-An app I'm building to bring conversations together in one place.
-</p>
+<p align="center"><a href="https://github.com/idginity124/Zleno"><img src="assets/covers/zleno.png" width="840" alt="Zleno — Voice rooms, communities and private messaging. Bringing conversations together in one place. "></a></p>
+
 <p align="center"><a href="https://apps.microsoft.com/detail/9NK6QQKSLSHD">Microsoft Store</a> &nbsp; / &nbsp; <a href="https://github.com/idginity124/Zleno">Explore project</a></p>
 
 <br>
 
-<p align="center"><a href="https://github.com/idginity124/NowLearn-Akademi"><img src="assets/covers/nowlearn.png" width="840" alt="NowLearn Akademi — gamified English learning. Explore the project."></a></p>
-<p align="center"><sub>CLIENT PROJECT · EDUCATION</sub></p>
-<p align="center">
-An English learning app I developed for a company using Flutter.<br>
-Word games, listening and reading exercises encourage daily practice.
-</p>
+<p align="center"><a href="https://github.com/idginity124/NowLearn-Akademi"><img src="assets/covers/nowlearn.png" width="840" alt="NowLearn Akademi — An English learning app developed for a company. Word games, listening and reading for daily practice. Flutter · Showcase only; source code is private"></a></p>
+
 <p align="center">
 <a href="https://apps.apple.com/tr/app/now-learn-akademi/id6803083436">App Store</a> &nbsp; / &nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.lingopark.app">Google Play</a> &nbsp; / &nbsp;
 <a href="https://nowlearnakademi.com/">Website</a> &nbsp; / &nbsp;
 <a href="https://github.com/idginity124/NowLearn-Akademi">Project showcase</a>
 </p>
-<p align="center"><sub>Showcase repository; source code is not published. The store screenshot retains the earlier Lingo Park branding.</sub></p>
 
 <br>
 
-<p align="center"><a href="https://github.com/idginity124/CipherVault"><img src="assets/covers/ciphervault.png" width="840" alt="CipherVault — offline password vault for Android and Windows. Explore the project."></a></p>
-<p align="center"><sub>ANDROID &amp; WINDOWS · SECURITY</sub></p>
-<p align="center">An offline password vault with local encryption.</p>
+<p align="center"><a href="https://github.com/idginity124/CipherVault"><img src="assets/covers/ciphervault.png" width="840" alt="CipherVault — An offline password vault with local encryption. Keep your passwords on your device. "></a></p>
+
 <p align="center"><a href="https://github.com/idginity124/CipherVault">Explore project</a></p>
 
 <br>
