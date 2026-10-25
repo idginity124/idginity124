@@ -56,7 +56,9 @@ Yapay zekâ odağımın yanında, fikirleri kullanılabilir uygulamalara dönü�
 
 <p align="center">🔐 <strong><a href="https://github.com/idginity124/CipherVault">CipherVault</a></strong> — Android ve Windows için yerel şifreleme kullanan, çevrimdışı parola kasası.</p>
 
-<p align="center">🦁 <strong>NowLearn Akademi</strong> — Flutter ile geliştirdiğim, çevrimdışı çalışan ve oyunlaştırmaya dayalı İngilizce kelime öğrenme uygulaması.</p>
+<p align="center">📚 <strong><a href="https://github.com/idginity124/NowLearn-Akademi">NowLearn Akademi</a></strong> — Bir şirket için Flutter ile geliştirdiğim İngilizce öğrenme uygulaması. Kelime oyunları, dinleme ve okuma alıştırmalarıyla günlük pratiği oyunlaştırır.</p>
+
+<p align="center"><a href="https://apps.apple.com/tr/app/now-learn-akademi/id6803083436">App Store</a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=com.lingopark.app">Google Play</a> &nbsp; · &nbsp; <a href="https://nowlearnakademi.com/">Web sitesi</a> &nbsp; · &nbsp; <a href="https://github.com/idginity124/NowLearn-Akademi">Proje tanıtımı</a><br><sub>Şirket projesi · GitHub deposu tanıtım amaçlıdır, kaynak kodu içermez.</sub></p>
 
 <hr>
 
