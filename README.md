@@ -2,7 +2,7 @@
   <img src="anime_banner.gif" width="100%" alt="Ekrem Bulgan — anime temalı profil banner’ı">
 
   <h1>Ekrem Bulgan</h1>
-  <h3>Aspiring AI Engineer | Mobile App Developer</h3>
+  <h3>Yapay Zekâ Mühendisliği Yolculuğu · Mobil Uygulama Geliştirme</h3>
   <p><i>Training today. Building tomorrow.</i> ⚡</p>
   <p>🧠 Yapay Zekâ &nbsp; · &nbsp; 👁️ Bilgisayarlı Görü &nbsp; · &nbsp; 📱 Mobil Uygulamalar</p>
 
@@ -48,6 +48,10 @@ Doğal dil işleme ile metinlerden adlandırılmış varlıkların çıkarılmas
 Yapay zekâ odağımın yanında, fikirleri kullanılabilir uygulamalara dönüştürüyorum.
 </p>
 
+<p align="center">🎬 <strong><a href="https://github.com/idginity124/VidExtract">VidExtract</a></strong> — Tauri, React ve Rust ile geliştirdiğim açık kaynak masaüstü uygulaması. Video indirme, cihazda konuşmadan metne dönüştürme, zaman damgalı arama ve çevrimiçi / çevrimdışı çeviri.</p>
+
+<p align="center"><a href="https://github.com/idginity124/VidExtract/releases">VidExtract’i indir</a> &nbsp; · &nbsp; <a href="https://github.com/idginity124/VidExtract">Kaynak kod · GPLv3</a></p>
+
 <p align="center">💬 <strong><a href="https://github.com/idginity124/Zleno">Zleno</a></strong> — Sesli odalar, topluluklar ve özel mesajlaşmayı bir araya getiren iletişim uygulamam.</p>
 
 <p align="center">🔐 <strong><a href="https://github.com/idginity124/CipherVault">CipherVault</a></strong> — Android ve Windows için yerel şifreleme kullanan, çevrimdışı parola kasası.</p>
@@ -56,11 +60,9 @@ Yapay zekâ odağımın yanında, fikirleri kullanılabilir uygulamalara dönü�
 
 <hr>
 
-<h3 align="center">🛠️ Yan Görevler: Python &amp; Otomasyon</h3>
+<h3 align="center">🛠️ Diğer Çalışmalar: Python &amp; Otomasyon</h3>
 
 <p align="center">📂 <strong><a href="https://github.com/idginity124/DeskMindAI">DeskMind AI</a></strong> — Dosya sistemi olaylarını izleyen, kural tabanlı sınıflandırma ile dosyaları düzenleyen masaüstü otomasyon aracı.</p>
-
-<p align="center">🎬 <strong><a href="https://github.com/idginity124/VidExtract">VidExtract</a></strong> — Python ve PySide6 ile geliştirdiğim, video ve ses indirme iş akışlarını kolaylaştıran masaüstü aracı.</p>
 
 <p align="center">🗂️ <strong><a href="https://github.com/idginity124/MediaManagerPro">MediaManagerPro</a></strong> — Medya arşivlerini düzenlemeye yönelik otomasyon projesi.</p>
 
@@ -85,7 +87,9 @@ Yapay zekâ odağımın yanında, fikirleri kullanılabilir uygulamalara dönü�
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="CSharp">
+<img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&amp;logo=tauri&amp;logoColor=black" alt="Tauri">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust">
 </p>
 
 <hr>
@@ -95,7 +99,7 @@ Yapay zekâ odağımın yanında, fikirleri kullanılabilir uygulamalara dönü�
 <br>
 
 <p align="center">
-Mobil uygulama ve Python otomasyonu projeleri için bana ulaşabilirsin.
+Mobil uygulama, yapay zekâ entegrasyonu ve Python otomasyonu projeleri için bana ulaşabilirsin.
 </p>
 
 <p align="center"><a href="https://linkedin.com/in/ekrembulgan">LinkedIn</a></p>
@@ -108,13 +112,12 @@ Mobil uygulama ve Python otomasyonu projeleri için bana ulaşabilirsin.
 
 <br>
 
-<h3 align="center">⚡ The Training Arc</h3>
+<hr>
 
 <p align="center">
-Yapay zekâ mühendisliğine uzanan kendi hikâyemi yazıyorum.<br>
-Her proje bir seviye, her hata bir antrenman.
+  <a href="https://buymeacoffee.com/ekrembulgan">☕ Çalışmalarıma destek ol</a>
 </p>
 
 <p align="center">
-<i>Bir sonraki bölüm: Öğrenen modeller, yaşayan uygulamalar.</i>
+  <img src="assets/training-arc.svg" width="840" alt="The Training Arc. Her proje bir seviye, her hata bir antrenman. Sürekli öğrenip geliştiğim kişisel yolculuğum. Ekrem Bulgan.">
 </p>
