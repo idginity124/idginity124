@@ -52,7 +52,7 @@ Yapay zekâ odağımın yanında, fikirleri kullanılabilir uygulamalara dönü�
 
 <p align="center">🔐 <strong><a href="https://github.com/idginity124/CipherVault">CipherVault</a></strong> — Android ve Windows için yerel şifreleme kullanan, çevrimdışı parola kasası.</p>
 
-<p align="center">🦁 <strong>LingoPark</strong> — Flutter ile geliştirdiğim, çevrimdışı çalışan ve oyunlaştırmaya dayalı İngilizce kelime öğrenme uygulaması.</p>
+<p align="center">🦁 <strong>NowLearn Akademi</strong> — Flutter ile geliştirdiğim, çevrimdışı çalışan ve oyunlaştırmaya dayalı İngilizce kelime öğrenme uygulaması.</p>
 
 <hr>
 
