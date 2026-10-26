@@ -70,8 +70,6 @@ I want to turn models into useful applications people can use every day.
 
 <br>
 
-<p align="center">Other work: <a href="https://github.com/idginity124/MediaManagerPro">MediaManagerPro</a></p>
-
 <h2 align="center">Get in touch</h2>
 <p align="center">For mobile development, AI integration and Python automation projects:</p>
 <p align="center">

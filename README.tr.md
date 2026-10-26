@@ -83,8 +83,6 @@ Flutter · Dart · Tauri · React · Rust
 
 <br>
 
-<p align="center">Diğer çalışmalar: <a href="https://github.com/idginity124/MediaManagerPro">MediaManagerPro</a></p>
-
 <h2 align="center">İletişim</h2>
 <p align="center">Mobil uygulama, yapay zekâ entegrasyonu ve Python otomasyonu projeleri için:</p>
 <p align="center">
