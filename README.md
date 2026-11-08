@@ -27,6 +27,12 @@ I want to turn models into useful applications people can use every day.
 <br>
 
 <h2 align="center">Selected projects</h2>
+<p align="center"><a href="https://github.com/idginity124/-DeskMind-AI"><img src="https://raw.githubusercontent.com/idginity124/-DeskMind-AI/main/assets/readme-hero.svg" width="840" alt="DeskMind AI — local-first multilingual document assistant powered by SentenceTransformers, Qdrant and optional Ollama"></a></p>
+<p align="center">DeskMind AI — Search your own PDF and text documents with multilingual embeddings, inspect source citations, and optionally generate answers with a local LLM.</p>
+<p align="center"><a href="https://github.com/idginity124/-DeskMind-AI">Source code &amp; setup</a> &nbsp; / &nbsp; <a href="https://github.com/idginity124/-DeskMind-AI/blob/main/README.tr.md">Türkçe rehber</a></p>
+
+<br>
+
 
 <p align="center"><a href="https://github.com/idginity124/VidExtract"><img src="assets/covers/vidextract.png" width="840" alt="VidExtract — Download media, transcribe locally and search by timestamp. Online / offline translation, subtitles and video clips. Tauri · React · Rust · whisper.cpp · CTranslate2"></a></p>
 
